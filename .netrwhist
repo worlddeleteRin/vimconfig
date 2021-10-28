@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/noname/work/eda_edet/eda_edet_front/public'
+let g:netrw_dirhist_7='/Users/noname/work/eda_edet/eda_edet_backend/main_app/apps/orders'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_5='/Users/noname/work/eda_edet/eda_edet_backend/main_app/apps/orders'
+let g:netrw_dirhist_4='/Users/noname/work/eda_edet/eda_edet_backend/main_app/apps/notifications'
+let g:netrw_dirhist_3='/Users/noname/work/eda_edet/eda_edet_backend/main_app/apps/orders'
+let g:netrw_dirhist_2='/Users/noname/work/eda_edet/eda_edet_backend/main_app/apps/notifications'
+let g:netrw_dirhist_1='/Users/noname/work/eda_edet/eda_edet_backend/test'
+let g:netrw_dirhist_0='/Users/noname/work/eda_edet/eda_edet_backend/main_app'
+let g:netrw_dirhist_9='/Users/noname/work/eda_edet/eda_edet_front/src/pages'
